@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard android:layout_gravity="center_horizontal" android:layout_centerHorizontal="true" android:keyWidth="9.749996%p" android:keyHeight="@dimen/key_height" android:horizontalGap="0.0%p" android:verticalGap="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Row android:rowEdgeFlags="top">
+        <Key android:horizontalGap="1.4000058%p" android:keyEdgeFlags="left" android:keyOutputText="ط" android:keyLabel="ط" />
+        <Key android:keyOutputText="ص" android:keyLabel="ص" />
+        <Key android:keyOutputText="ھ" android:keyLabel="ھ" />
+        <Key android:keyOutputText="د" android:keyLabel="د" />
+        <Key android:keyOutputText="ٹ" android:keyLabel="ٹ" />
+        <Key android:keyOutputText="پ" android:keyLabel="پ" />
+        <Key android:keyOutputText="ت" android:keyLabel="ت" />
+        <Key android:keyOutputText="ب" android:keyLabel="ب" />
+        <Key android:keyOutputText="ج" android:keyLabel="ج" />
+        <Key android:keyEdgeFlags="right" android:keyOutputText="ح" android:keyLabel="ح" />
+    </Row>
+    <Row>
+        <Key android:horizontalGap="6.2999964%p" android:keyEdgeFlags="left" android:keyOutputText="م" android:keyLabel="م" />
+        <Key android:keyOutputText="و" android:keyLabel="و" />
+        <Key android:keyOutputText="ر" android:keyLabel="ر" />
+        <Key android:keyOutputText="ن" android:keyLabel="ن" />
+        <Key android:keyOutputText="ل" android:keyLabel="ل" />
+        <Key android:keyOutputText="ہ" android:keyLabel="ہ" />
+        <Key android:keyOutputText="ا" android:keyLabel="ا" />
+        <Key android:keyOutputText="ک" android:keyLabel="ک" />
+        <Key android:keyEdgeFlags="right" android:keyOutputText="ی" android:keyLabel="ی" />
+    </Row>
+    <Row>
+        <Key android:keyWidth="10.249996%p" android:horizontalGap="1.4000058%p" android:keyEdgeFlags="left" android:keyOutputText="ق" android:keyLabel="ق" />
+        <Key android:horizontalGap="1.4000058%p" android:keyOutputText="ف" android:keyLabel="ف" />
+        <Key android:keyOutputText="ے" android:keyLabel="ے" />
+        <Key android:keyOutputText="س" android:keyLabel="س" />
+        <Key android:keyOutputText="ش" android:keyLabel="ش" />
+        <Key android:keyOutputText="غ" android:keyLabel="غ" />
+        <Key android:keyOutputText="ع" android:keyLabel="ع" />
+        <Key android:keyOutputText="ۓ" android:keyLabel="ۓ" />
+        <Key android:keyWidth="13.250006%p" android:horizontalGap="1.4000058%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true" android:keyIcon="@drawable/delete" />
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:keyWidth="14.65%p" android:horizontalGap="1.4000058%p" android:codes="-2" android:keyEdgeFlags="left" android:keyLabel="123" />
+        <Key android:codes="44" android:keyLabel="," />
+        <Key android:codes="-101" android:keyIcon="@drawable/language" />
+        <Key android:keyWidth="38.900005%p" android:codes="32" android:isRepeatable="true" android:keyIcon="@drawable/ic_baseline_space_bar_24px" />
+        <Key android:codes="46" android:keyLabel="." />
+        <Key android:keyWidth="14.65%p" android:codes="10" android:keyEdgeFlags="right" android:keyLabel="Enter" />
+    </Row>
+</Keyboard>

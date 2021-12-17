@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stylish Fonts</string>
+    <string name="change_btnlang">Set Language</string>
+    <string name="default_message">Message here</string>
+    <string name="menu_terms">Terms of Service</string>
+    <string name="accept_and_continue">ACCEPT AND CONTINUE</string>
+    <string name="permission_disclosure">Permission Disclosure</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="termsOfServiceSummery">This app is governed by SkyTechZone Terms of Service. By continuing to use this app you represent that you have read and accept the Terms of Service, Privacy Policy and Permission disclosure.</string>
+
+    <string name="setup_wizard_step_one_action_error_no_settings_activity">Error: Your device does not support 3rd-party keyboards. Font Plus can not be added.</string>
+    <string name="test_hint">Type something</string>
+    <string name="word_separators">.,;:!?10()[]*&amp;@{}/&lt;>_+=|</string>
+
+    <string name="ad_attribution">Ad</string>
+
+
+<!--Test-->
+<!--    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--    <string name="admob_native_ad_id">ca-app-pub-3940256099942544/2247696110</string>-->
+<!--    <string name="admob_intersitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="admob_openapp_unit_id">ca-app-pub-3940256099942544/3419835294</string>-->
+
+
+
+
+    <string name="admob_app_id">ca-app-pub-5262937819749954~3947452518</string>
+    <string name="admob_native_ad_id">ca-app-pub-5262937819749954/8241920746</string>
+    <string name="admob_intersitial_id">ca-app-pub-5262937819749954/8433492434</string>
+    <string name="admob_openapp_unit_id">ca-app-pub-5632406496912407/1605755438</string>
+
+    <string name="todo">todo</string>
+
+
+</resources>

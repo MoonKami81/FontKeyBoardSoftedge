@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard android:layout_gravity="center_horizontal" android:layout_centerHorizontal="true" android:keyWidth="9.749996%p" android:keyHeight="@dimen/key_height" android:horizontalGap="0.0%p" android:verticalGap="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Row android:rowEdgeFlags="top">
+        <Key android:horizontalGap="1.4000058%p" android:keyOutputText="०" android:keyLabel="०" />
+        <Key android:keyOutputText="१" android:keyLabel="१" />
+        <Key android:keyOutputText="२" android:keyLabel="२" />
+        <Key android:keyOutputText="३" android:keyLabel="३" />
+        <Key android:keyOutputText="४" android:keyLabel="४" />
+        <Key android:keyOutputText="५" android:keyLabel="५" />
+        <Key android:keyOutputText="६" android:keyLabel="६" />
+        <Key android:keyOutputText="७" android:keyLabel="७" />
+        <Key android:keyOutputText="८" android:keyLabel="८" />
+        <Key android:keyOutputText="९" android:keyLabel="९" />
+    </Row>
+    <Row>
+        <Key android:horizontalGap="1.4000058%p" android:keyEdgeFlags="left" android:keyOutputText="ऍ" android:keyLabel="ऍ" />
+        <Key android:keyOutputText="ॅ" android:keyLabel="ॅ" />
+        <Key android:keyOutputText="्" android:keyLabel="्" />
+        <Key android:keyOutputText="र" android:keyLabel="र" />
+        <Key android:keyOutputText="ૂ" android:keyLabel="ૂ" />
+        <Key android:keyOutputText="ज" android:keyLabel="ज" />
+        <Key android:keyOutputText="त" android:keyLabel="त" />
+        <Key android:keyOutputText="क" android:keyLabel="क" />
+        <Key android:keyOutputText="र" android:keyLabel="र" />
+        <Key android:keyOutputText="ऋ" android:keyLabel="ऋ" />
+    </Row>
+    <Row>
+        <Key android:horizontalGap="1.4000058%p" android:keyEdgeFlags="left" android:keyOutputText="|" android:keyLabel="|" />
+        <Key android:keyOutputText="औ" android:keyLabel="औ" />
+        <Key android:keyOutputText="ऐ" android:keyLabel="ऐ" />
+        <Key android:keyOutputText="आ" android:keyLabel="आ" />
+        <Key android:keyOutputText="ई" android:keyLabel="ई" />
+        <Key android:keyOutputText="ऊ" android:keyLabel="ऊ" />
+        <Key android:keyOutputText="भ" android:keyLabel="भ" />
+        <Key android:keyOutputText="ङ" android:keyLabel="ङ" />
+        <Key android:keyOutputText="घ" android:keyLabel="घ" />
+        <Key android:keyOutputText="ध" android:keyLabel="ध" />
+    </Row>
+    <Row>
+        <Key android:horizontalGap="1.4000058%p" android:keyEdgeFlags="left" android:keyOutputText="थ" android:keyLabel="थ" />
+        <Key android:keyOutputText="छ" android:keyLabel="छ" />
+        <Key android:keyOutputText="ठ" android:keyLabel="ठ" />
+        <Key android:keyOutputText="ँ" android:keyLabel="ँ" />
+        <Key android:keyOutputText="ण" android:keyLabel="ण" />
+        <Key android:keyOutputText="ळ" android:keyLabel="ळ" />
+        <Key android:keyOutputText="ष" android:keyLabel="ष" />
+        <Key android:keyOutputText="।" android:keyLabel="।" />
+        <Key android:keyOutputText="य़" android:keyLabel="य़" />
+        <Key android:keyWidth="13.250006%p" android:horizontalGap="1.4000058%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true" android:keyIcon="@drawable/delete" />
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:keyWidth="14.65%p" android:horizontalGap="1.4000058%p" android:codes="-2" android:keyEdgeFlags="left" android:keyLabel="123" />
+        <Key android:codes="44" android:keyLabel="," />
+        <Key android:codes="-101" android:keyIcon="@drawable/language" />
+        <Key android:keyWidth="38.900005%p" android:codes="32" android:isRepeatable="true" android:keyIcon="@drawable/ic_baseline_space_bar_24px" />
+        <Key android:codes="46" android:keyLabel="." />
+        <Key android:keyWidth="14.65%p" android:codes="10" android:keyEdgeFlags="right" android:keyLabel="Enter" />
+    </Row>
+</Keyboard>

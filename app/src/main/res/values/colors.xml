@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#ff000000</color>
+    <color name="btn_slc_clr3">#95ffa556</color>
+    <color name="btnclr">#fff6f6f6</color>
+    <color name="colorAccent">#5015E6</color>
+    <color name="colorError">#ffef5350</color>
+    <color name="communication_setting">#DCE4FC</color>
+    <color name="colorInfo">#ff29b6f6</color>
+    <color name="colorKeyBackground">#fffafafa</color>
+    <color name="colorKeySelected">#ffd4d4d4</color>
+    <color name="colorKeyText">#ff252525</color>
+    <color name="colorKeyTextSelected">#ff000000</color>
+    <color name="colorKeyboardBackground">#ffdddee1</color>
+    <color name="colorPreviewBackground">#ffd2d2d2</color>
+    <color name="colorPrimary">#D89D35</color>
+    <color name="colorPrimaryDark">#D89829</color>
+    <color name="colorSuccess">#ff66bb6a</color>
+    <color name="colorWarning">#ffffa726</color>
+    <color name="colorWhite">#ffffffff</color>
+    <color name="eu_consent__button_stroke_color">#ff0e93fa</color>
+    <color name="eu_consent_button_normal_color">#00000000</color>
+    <color name="eu_consent_button_press_color">#ffe5e5e5</color>
+    <color name="eu_consent_dialog_bg_color">#fff7f7f7</color>
+    <color name="eu_consent_dialog_button_text_color">#ff699ef4</color>
+    <color name="eu_consent_dialog_button_text_select_color">#fff46973</color>
+    <color name="eu_consent_dialog_header_color">#ff444444</color>
+    <color name="eu_consent_dialog_message_color">#ff666666</color>
+    <color name="white">#ffffffff</color>
+</resources>

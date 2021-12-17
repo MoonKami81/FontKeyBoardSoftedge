@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="#fff6f6f6" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:background="#fff6f6f6" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:id="@id/btn_font" android:background="@drawable/round_btn" android:padding="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/ispro" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:layout_alignRight="@id/btn_font" />
+    </RelativeLayout>
+</RelativeLayout>

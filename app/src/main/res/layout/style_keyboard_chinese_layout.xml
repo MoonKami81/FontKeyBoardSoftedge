@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard android:layout_gravity="center_horizontal" android:layout_centerHorizontal="true" android:keyWidth="9.749996%p" android:keyHeight="@dimen/key_height" android:horizontalGap="0.0%p" android:verticalGap="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Row android:rowEdgeFlags="top">
+        <Key android:horizontalGap="1.4000058%p" android:keyEdgeFlags="left" android:keyOutputText="手" android:keyLabel="手" />
+        <Key android:keyWidth="10.899997%p" android:keyOutputText="田" android:keyLabel="田" />
+        <Key android:keyOutputText="水" android:keyLabel="水" />
+        <Key android:keyOutputText="口" android:keyLabel="口" />
+        <Key android:keyOutputText="廿" android:keyLabel="廿" />
+        <Key android:keyOutputText="卜" android:keyLabel="卜" />
+        <Key android:keyOutputText="山" android:keyLabel="山" />
+        <Key android:keyOutputText="戈" android:keyLabel="戈" />
+        <Key android:keyOutputText="人" android:keyLabel="人" />
+        <Key android:keyEdgeFlags="right" android:keyOutputText="心" android:keyLabel="心" />
+    </Row>
+    <Row>
+        <Key android:horizontalGap="6.2999964%p" android:keyEdgeFlags="left" android:keyOutputText="日" android:keyLabel="日" />
+        <Key android:keyOutputText="尸" android:keyLabel="尸" />
+        <Key android:keyOutputText="木" android:keyLabel="木" />
+        <Key android:keyOutputText="火" android:keyLabel="火" />
+        <Key android:keyOutputText="土" android:keyLabel="土" />
+        <Key android:keyOutputText="竹" android:keyLabel="竹" />
+        <Key android:keyOutputText="十" android:keyLabel="十" />
+        <Key android:keyOutputText="大" android:keyLabel="大" />
+        <Key android:keyEdgeFlags="right" android:keyOutputText="中" android:keyLabel="中" />
+    </Row>
+    <Row>
+        <Key android:keyWidth="13.250006%p" android:horizontalGap="1.4000058%p" android:codes="-1" android:keyEdgeFlags="left" android:isModifier="true" android:isSticky="true" android:keyIcon="@drawable/caps" />
+        <Key android:horizontalGap="1.4000058%p" android:keyOutputText="Ｚ" android:keyLabel="Ｚ" />
+        <Key android:keyOutputText="難" android:keyLabel="難" />
+        <Key android:keyOutputText="金" android:keyLabel="金" />
+        <Key android:keyOutputText="女" android:keyLabel="女" />
+        <Key android:keyOutputText="月" android:keyLabel="月" />
+        <Key android:keyOutputText="弓" android:keyLabel="弓" />
+        <Key android:keyOutputText="一" android:keyLabel="一" />
+        <Key android:keyWidth="13.250006%p" android:horizontalGap="1.4000058%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true" android:keyIcon="@drawable/delete" />
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:keyWidth="14.65%p" android:horizontalGap="1.4000058%p" android:codes="-2" android:keyEdgeFlags="left" android:keyLabel="123" />
+        <Key android:codes="44" android:keyLabel="," />
+        <Key android:codes="-101" android:keyIcon="@drawable/language" />
+        <Key android:keyWidth="38.900005%p" android:codes="32" android:isRepeatable="true" android:keyIcon="@drawable/ic_baseline_space_bar_24px" />
+        <Key android:codes="46" android:keyLabel="." />
+        <Key android:keyWidth="14.65%p" android:codes="10" android:keyEdgeFlags="right" android:keyLabel="Enter" />
+    </Row>
+</Keyboard>

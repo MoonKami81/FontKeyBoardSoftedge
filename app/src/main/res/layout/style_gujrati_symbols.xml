@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard android:layout_gravity="center_horizontal" android:layout_centerHorizontal="true" android:keyWidth="9.749996%p" android:keyHeight="@dimen/key_height" android:horizontalGap="0.0%p" android:verticalGap="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Row android:rowEdgeFlags="top">
+        <Key android:horizontalGap="1.4000058%p" android:keyOutputText="૦" android:keyLabel="૦" />
+        <Key android:keyOutputText="૧" android:keyLabel="૧" />
+        <Key android:keyOutputText="૨" android:keyLabel="૨" />
+        <Key android:keyOutputText="૩" android:keyLabel="૩" />
+        <Key android:keyOutputText="૪" android:keyLabel="૪" />
+        <Key android:keyOutputText="૫" android:keyLabel="૫" />
+        <Key android:keyOutputText="૬" android:keyLabel="૬" />
+        <Key android:keyOutputText="૭" android:keyLabel="૭" />
+        <Key android:keyOutputText="૮" android:keyLabel="૮" />
+        <Key android:keyOutputText="૯" android:keyLabel="૯" />
+    </Row>
+    <Row>
+        <Key android:horizontalGap="1.4000058%p" android:keyEdgeFlags="left" android:keyOutputText="ા" android:keyLabel="ા" />
+        <Key android:keyOutputText="િ" android:keyLabel="િ" />
+        <Key android:keyOutputText="ી" android:keyLabel="ી" />
+        <Key android:keyOutputText="ુ" android:keyLabel="ુ" />
+        <Key android:keyOutputText="ૂ" android:keyLabel="ૂ" />
+        <Key android:keyOutputText="ઋ" android:keyLabel="ઋ" />
+        <Key android:keyOutputText="ૠ" android:keyLabel="ૠ" />
+        <Key android:keyOutputText="એ" android:keyLabel="એ" />
+        <Key android:keyOutputText="ઍ" android:keyLabel="ઍ" />
+        <Key android:keyOutputText="ઐ" android:keyLabel="ઐ" />
+    </Row>
+    <Row>
+        <Key android:horizontalGap="1.4000058%p" android:keyEdgeFlags="left" android:keyOutputText="ઓ" android:keyLabel="ઓ" />
+        <Key android:keyOutputText="ઑ" android:keyLabel="ઑ" />
+        <Key android:keyOutputText="ઔ" android:keyLabel="ઔ" />
+        <Key android:keyOutputText="ૃ" android:keyLabel="ૃ" />
+        <Key android:keyOutputText="ૄૄ" android:keyLabel="ૄૄ" />
+        <Key android:keyOutputText="ે" android:keyLabel="ે" />
+        <Key android:keyOutputText="ૅ" android:keyLabel="ૅ" />
+        <Key android:keyOutputText="ૈ" android:keyLabel="ૈ" />
+        <Key android:keyOutputText="ો" android:keyLabel="ો" />
+        <Key android:keyOutputText="ૉ" android:keyLabel="ૉ" />
+    </Row>
+    <Row>
+        <Key android:horizontalGap="1.4000058%p" android:keyEdgeFlags="left" android:keyOutputText="ૌ" android:keyLabel="ૌ" />
+        <Key android:keyOutputText="ઁ" android:keyLabel="ઁ" />
+        <Key android:keyOutputText="ં" android:keyLabel="ં" />
+        <Key android:keyOutputText="ઃ" android:keyLabel="ઃ" />
+        <Key android:keyOutputText="ઽ" android:keyLabel="ઽ" />
+        <Key android:keyOutputText="ૐ" android:keyLabel="ૐ" />
+        <Key android:codes="58" android:keyLabel=":" />
+        <Key android:codes="59" android:keyLabel=";" />
+        <Key android:codes="63" android:keyLabel="\?" />
+        <Key android:keyWidth="13.250006%p" android:horizontalGap="1.4000058%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true" android:keyIcon="@drawable/delete" />
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:keyWidth="14.65%p" android:horizontalGap="1.4000058%p" android:codes="-2" android:keyEdgeFlags="left" android:keyLabel="123" />
+        <Key android:codes="44" android:keyLabel="," />
+        <Key android:codes="-101" android:keyIcon="@drawable/language" />
+        <Key android:keyWidth="38.900005%p" android:codes="32" android:isRepeatable="true" android:keyIcon="@drawable/ic_baseline_space_bar_24px" />
+        <Key android:codes="46" android:keyLabel="." />
+        <Key android:keyWidth="14.65%p" android:codes="10" android:keyEdgeFlags="right" android:keyLabel="Enter" />
+    </Row>
+</Keyboard>
